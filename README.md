@@ -5,7 +5,7 @@ I am a Computer Science undergraduate student at the University of Toronto
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenci2114)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jenci2114&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jenci2114&show_icons=true&include_all_commits=true)  
 
 <!---
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jenci2114&bg_color=ffffff)  
